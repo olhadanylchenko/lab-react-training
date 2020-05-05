@@ -1,0 +1,16 @@
+.card {
+  margin: 10px;
+  padding: 20px;
+  width: 300px;
+  border-radius: 10px;
+  display: inline-block;
+  text-align: right;
+}
+
+.cardNumber {
+  text-align: center;
+}
+
+.expires {
+  text-align: left;
+}
